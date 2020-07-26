@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd548072-c3ae-4c09-bed0-9274e897a1b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Classes/Camera/CameraComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Classes/Camera/CameraActor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Plugins/Runtime/PhysXVehicles/Source/PhysXVehicles/Public/WheeledVehicleMovementComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Private/GameplayStatics.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXGameMode.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectX.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXPawn.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXWheelFront.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXWheelRear.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXWheelRear.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXWheelFront.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXHud.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXPawn.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectX.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXGameMode.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/MyProjectXHud.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Plugins/Media/WmfMedia/Source/WmfMedia/Public/WmfMediaHardwareVideoDecodingRendering.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformString.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Classes/Components/SceneComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Private/Camera/CameraActor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Editor/GraphEditor/Private/KismetPins/SGraphPinInteger.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Plugins/Online/OnlineFramework/Source/Lobby/Private/LobbyBeaconHost.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/MyProjectX/Definitions.MyProjectX.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Plugins/Media/WmfMedia/Source/WmfMedia/Private/Wmf/WmfMediaHardwareVideoDecodingRendering.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Developer/FunctionalTesting/Public/AutomationBlueprintFunctionLibrary.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Core/Public/Containers/UnrealString.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/CoreUObject/Public/UObject/Object.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/ApplicationCore/Private/Lumin/LuminInputInterface.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/CoreUObject/Public/UObject/ConstructorHelpers.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Core/Public/HAL/RunnableThread.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Classes/Components/TextRenderComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Developer/FunctionalTesting/Private/AutomationBlueprintFunctionLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Classes/Components/SkeletalMeshComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Classes/Components/AudioComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Developer/FunctionalTesting/Private/FunctionalUIScreenshotTest.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Classes/Engine/World.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Shaders/Private/DistanceFieldAOShared.ush" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Engine/Classes/Kismet/GameplayStatics.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Plugins/Runtime/AR/Google/GoogleARCore/Source/GoogleARCoreBase/Private/GoogleARCoreAugmentedImageDatabase.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/um/WS2tcpip.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/Abilities/Tasks/AbilityTask_WaitGameplayEffectStackChange.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Core/Public/Logging/LogTrace.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/UDPMyGameServer.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Core/Public/Logging/LogMacros.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/MyProjectX/UDPMyGameServer.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Sockets/Public/Sockets.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/MyProjectXEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/um/WinSock2.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Core/Public/HAL/Runnable.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Runtime/Sockets/Private/Sockets.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Shaders/Private/GlobalDistanceFieldShared.ush" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.25/Engine/Source/Editor/Kismet/Private/SBlueprintEditorSelectedDebugObjectWidget.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Source/MyProjectX/UDPComponent.h" />
+        <option value="$PROJECT_DIR$/Source/MyProjectX/UDPComponent.cpp" />
+        <option value="$PROJECT_DIR$/Source/MyProjectX/UDPReciever.h" />
+        <option value="$PROJECT_DIR$/Source/MyProjectX/UDPReciever.cpp" />
+        <option value="$PROJECT_DIR$/Source/MyProjectX/UDPMyGameServer.h" />
+        <option value="$PROJECT_DIR$/Source/MyProjectX/MyProjectXGameMode.cpp" />
+        <option value="$PROJECT_DIR$/Source/MyProjectX/MyProjectXGameMode.h" />
+        <option value="$PROJECT_DIR$/Source/MyProjectX/MyProjectXPawn.h" />
+        <option value="$PROJECT_DIR$/Source/MyProjectX/MyProjectXPawn.cpp" />
+        <option value="$PROJECT_DIR$/Source/MyProjectX/UDPMyGameServer.cpp" />
+        <option value="$PROJECT_DIR$/.idea/.idea.MyProjectX/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dtEWHD3swQrka5wI07besUToEF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34585202" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.62780267" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.42139384" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="threadsIsVisibleKey" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyProjectX" type="CppProject" factoryName="C++ Project">
+      <configuration_1>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_1>
+      <configuration_2>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_2>
+      <configuration_3>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_3>
+      <configuration_4>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_4>
+      <configuration_5>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_5>
+      <configuration_6>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_6>
+      <configuration_7>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_7>
+      <configuration_8>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_8>
+      <configuration_9>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_9>
+      <configuration_10>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_10>
+      <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/MyProjectX.vcxproj" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd548072-c3ae-4c09-bed0-9274e897a1b3" name="Default Changelist" comment="" />
+      <created>1593236019707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593236019707</updated>
+      <workItem from="1593236064383" duration="14526000" />
+      <workItem from="1593257598031" duration="18949000" />
+      <workItem from="1593286335946" duration="7320000" />
+      <workItem from="1593330479009" duration="7140000" />
+      <workItem from="1595754599792" duration="2213000" />
+      <workItem from="1595756973349" duration="188000" />
+      <workItem from="1595758354436" duration="676000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: init template project&#10;feat: created UDP class for server&#10;feat: implemented UDP server to vehicle class.">
+      <created>1595755277646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595755277646</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: init template project&#10;feat: created UDP class for server&#10;feat: implemented UDP server to vehicle class.">
+      <created>1595755389350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595755389350</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: init template project&#10;feat: created UDP class for server&#10;feat: implemented UDP server to vehicle class.">
+      <created>1595756333368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595756333368</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: remote path">
+      <created>1595756592280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595756592280</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="feat: added .gitignore" />
+    <MESSAGE value="feat: init template project&#10;feat: created UDP class for server&#10;feat: implemented UDP server to vehicle class." />
+    <MESSAGE value="feat: remote path" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: remote path" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="856" y="402" width="272" height="534" key="#Notifications" timestamp="1595756696910">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="856" y="402" width="272" height="534" key="#Notifications/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756696910" />
+    <state x="445" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593257605717">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="445" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593257605717" />
+    <state width="391" height="454" key="DebuggerActiveHint" timestamp="1593259484944">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="391" height="454" key="DebuggerActiveHint/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593259484944" />
+    <state x="156" y="92" width="1672" height="896" key="DiffContextDialog" timestamp="1595756814899">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="156" y="92" width="1672" height="896" key="DiffContextDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756814899" />
+    <state x="790" y="456" key="GitRewordDialog" timestamp="1595755444013">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="790" y="456" key="GitRewordDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595755444013" />
+    <state x="760" y="406" key="Github.CreatePullRequestDialog" timestamp="1595756251465">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="760" y="406" key="Github.CreatePullRequestDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756251465" />
+    <state x="534" y="343" width="648" height="205" key="Github.ShareDialog" timestamp="1595757013880">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="534" y="343" width="648" height="205" key="Github.ShareDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595757013880" />
+    <state x="871" y="247" key="Github.UntrackedFilesDialog" timestamp="1595755733346">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="871" y="247" key="Github.UntrackedFilesDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595755733346" />
+    <state width="1815" height="85" key="GridCell.Tab.0.bottom" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.0.bottom/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.0.center" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.0.center/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.0.left" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.0.left/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.0.right" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.0.right/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.1.bottom" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.1.bottom/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.1.center" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.1.center/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.1.left" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.1.left/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.1.right" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.1.right/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.2.bottom" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.2.bottom/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.2.center" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.2.center/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.2.left" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.2.left/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.2.right" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.2.right/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.3.bottom" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.3.bottom/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.3.center" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.3.center/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.3.left" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.3.left/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state width="1815" height="85" key="GridCell.Tab.3.right" timestamp="1593348840187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="85" key="GridCell.Tab.3.right/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593348840187" />
+    <state x="852" y="245" key="RiderGenerateDialog" timestamp="1593292944733">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="852" y="245" key="RiderGenerateDialog/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593292944733" />
+    <state x="493" y="184" key="SettingsEditor" timestamp="1595758965460">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="493" y="184" key="SettingsEditor/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595758965460" />
+    <state x="371" y="246" key="VCS.ChangeListViewerDialog" timestamp="1595756785666">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="371" y="246" key="VCS.ChangeListViewerDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756785666" />
+    <state x="384" y="208" width="816" height="583" key="Vcs.Push.Dialog.v2" timestamp="1595756803872">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="384" y="208" width="816" height="583" key="Vcs.Push.Dialog.v2/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756803872" />
+    <state x="156" y="92" width="1672" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595756814899">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="156" y="92" width="1672" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756814899" />
+    <state x="662" y="155" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593288281935">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="662" y="155" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593288281935" />
+    <state x="801" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595756688357">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="801" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756688357" />
+    <state x="669" y="139" width="839" height="801" key="find.popup" timestamp="1593331261388">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="669" y="139" width="839" height="801" key="find.popup/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593331261388" />
+    <state x="797" y="401" key="git4idea.rebase.GitRebaseDialog" timestamp="1595756788466">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="797" y="401" key="git4idea.rebase.GitRebaseDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756788466" />
+    <state x="783" y="441" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595756609960">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="783" y="441" key="git4idea.remote.GitConfigureRemotesDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756609960" />
+    <state x="806" y="434" key="git4idea.ui.GitResetDialog" timestamp="1595756217500">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="806" y="434" key="git4idea.ui.GitResetDialog/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595756217500" />
+    <state x="1045" y="230" key="run.anything.popup" timestamp="1593332591796">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1045" y="230" key="run.anything.popup/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593332591796" />
+    <state x="1141" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1595755138590">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="1140" y="401" width="672" height="678" key="search.everywhere.popup/62.0.1858.1080/-1856.0.1856.1080@62.0.1858.1080" timestamp="1593293129304" />
+    <state x="1141" y="401" width="672" height="678" key="search.everywhere.popup/64.0.1856.1080/-1856.0.1856.1080@64.0.1856.1080" timestamp="1595755138590" />
+  </component>
+</project>
